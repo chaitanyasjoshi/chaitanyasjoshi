@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://chaitanyasjoshi.github.io/Portfolio/](https://chaitanyasjoshi.github.io/Portfolio/)
 
-- 💬 Ask me about **Java, JavaScript, C/C++**
+- 💬 Ask me about **JavaScript, Java, Solidity**
 
 - 📫 How to reach me **chaitanya9joshi@gmail.com**
 
