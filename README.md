@@ -23,4 +23,3 @@ Connect with me:
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitanyasjoshi&show_icons=true&locale=en&theme=dark" alt="chaitanyasjoshi" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyasjoshi&theme=dark" alt="chaitanyasjoshi" /></p>
