@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **JavaScript, Java, C/C++**
 
-- 📫 How to reach me **chaitanya9joshi@gmail.com**
-
 - 📄 Know about my experiences [Resume](https://chaitanyasjoshi.github.io/Portfolio/Chaitanya_Joshi_resume.pdf)
 
 Connect with me:
