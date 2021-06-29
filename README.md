@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Solidity & NextJS**
 
-- 👨‍💻 All of my projects are available at [chaitanyasjoshi.github.io/Portfolio/](https://chaitanyasjoshi.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [chaitanyasjoshi.github.io](https://chaitanyasjoshi.github.io/Portfolio/)
 
 - 💬 Ask me about **JavaScript, Java, C/C++**
 
